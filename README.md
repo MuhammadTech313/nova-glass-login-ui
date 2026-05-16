@@ -5,7 +5,7 @@ A sophisticated, futuristic authentication UI built with Flutter featuring glass
 ## Screenshots
 
 **Desktop View**: ![Preview](https://raw.githubusercontent.com/MuhammadTech313/nova-glass-login-ui/main/assets/images/1.png)
-**Mobile View**: ![Preview](https://raw.githubuercontent.com/MuhammadTech313/nova-glass-login-ui/blob/main/assets/images/2.png)
+**Mobile View**: ![Preview](assets/images/2.png)
 **Tablet**: ![Preview](https://raw.githubusercontent.com/MuhammadTech313/nova-glass-login-ui/blob/main/assets/images/3.png)
 
 
