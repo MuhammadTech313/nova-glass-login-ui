@@ -2,6 +2,13 @@
 
 A sophisticated, futuristic authentication UI built with Flutter featuring glassmorphism aesthetics, smooth animations, and a premium design system.
 
+## Screenshots
+
+**Desktop View**: ![Preview](https://raw.githubusercontent.com/MuhammadTech313/nova-glass-login-ui/main/assets/images/1.png)
+**Mobile View**: ![Preview](https://raw.githubuercontent.com/MuhammadTech313/nova-glass-login-ui/blob/main/assets/images/2.png)
+**Tablet**: ![Preview](https://raw.githubusercontent.com/MuhammadTech313/nova-glass-login-ui/blob/main/assets/images/3.png)
+
+
 ## Features
 
 ### Visual Design
@@ -210,12 +217,6 @@ Best experienced on:
 - Chrome/Edge (best blur support)
 - Safari (good blur support)
 - Firefox (fallback rendering)
-
-## Screenshots
-
-**Desktop View**: ![Preview](https://raw.githubusercontent.com/MuhammadTech313/nova-glass-login-ui/main/assets/images/1.png)
-**Mobile View**: Stacked layout with responsive spacing
-**Animations**: Smooth transitions between login/signup modes
 
 ## Production Deployment
 
