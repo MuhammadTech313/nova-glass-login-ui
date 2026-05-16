@@ -213,7 +213,7 @@ Best experienced on:
 
 ## Screenshots
 
-**Desktop View**: Split-screen with hero section left, auth card right
+**Desktop View**: ![Preview](https://raw.githubusercontent.com/MuhammadTech313/nova-glass-login-ui/main/assets/images/1.png)
 **Mobile View**: Stacked layout with responsive spacing
 **Animations**: Smooth transitions between login/signup modes
 
